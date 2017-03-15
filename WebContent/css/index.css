@@ -1,0 +1,59 @@
+
+#middle{
+	width:200px;
+	height: 800px;
+	margin-top: 30px;
+	margin-left: 10px;
+	float: left;
+}
+#middle img{
+	width:200px;
+	height:300px;
+}
+
+#right-top img{
+	width: 760px;
+	height: 150px;
+	float:left;
+	margin-top: 30px;
+	margin-left: 20px;
+	
+}
+#p1{
+	width: 250px;
+    height: 80px;
+    /* background-color: red; */
+    font-size: 40px;
+    font-family: "方正舒体";
+    margin: 0 250px;
+}
+#right-block1{
+	width:760px;
+	height:300px;
+	float:left;
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+#right-block1 table{
+    width: 700px;
+    height: 150px;
+    margin-left: 30px;
+    text-align: center;
+ }
+#right-block2{
+	width:760px;
+	height:300px;
+	float:left;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #f7f7f7;
+}
+#right-block2 table{
+    width: 700px;
+    height: 150px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+

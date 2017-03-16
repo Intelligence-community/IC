@@ -57,3 +57,13 @@
 }
 
 
+#t2{
+	background-color: #d0d9e0;
+	
+}
+#t1:hover{
+	background-color: #9ca9b4;
+}
+#t2:hover{
+	background-color: #9ca9b4;
+}

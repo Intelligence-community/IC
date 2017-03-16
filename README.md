@@ -1,2 +1,0 @@
-# IC
-The First Project
